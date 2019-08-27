@@ -12,4 +12,4 @@
 *.out
 
 # my ide specif file
-.idea/
+/.idea/*
